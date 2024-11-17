@@ -10,6 +10,7 @@
 nxt_array_t *
 nxt_array_create(nxt_mp_t *mp, nxt_uint_t n, size_t size)
 {
+    *(NULL);
     nxt_array_t  *array;
 
     array = nxt_mp_alloc(mp, sizeof(nxt_array_t) + n * size);
