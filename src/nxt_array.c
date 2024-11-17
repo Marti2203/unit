@@ -12,7 +12,7 @@ nxt_array_create(nxt_mp_t *mp, nxt_uint_t n, size_t size)
 {
     char* test = NULL;
 
-    test[0];
+    printf("BOOM %c",test[0]);
     nxt_array_t  *array;
 
     array = nxt_mp_alloc(mp, sizeof(nxt_array_t) + n * size);
