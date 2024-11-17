@@ -20,9 +20,9 @@ running.
 
 ## Ask a Question
 
-Please open an [issue](https://github.com/nginx/unit/issues/new) on GitHub
+Please open an [issue](https://github.com/Marti2203/unit/issues/new) on GitHub
 with the label `question`.  You can also ask a question on
-[GitHub Discussions](https://github.com/nginx/unit/discussions) or the NGINX
+[GitHub Discussions](https://github.com/Marti2203/unit/discussions) or the NGINX
 Unit mailing list, unit@nginx.org (subscribe
 [here](https://mailman.nginx.org/mailman3/lists/unit.nginx.org/)).
 
@@ -32,13 +32,13 @@ Unit mailing list, unit@nginx.org (subscribe
 ### Report a Bug
 
 Ensure the bug was not already reported by searching on GitHub under
-[Issues](https://github.com/nginx/unit/issues).
+[Issues](https://github.com/Marti2203/unit/issues).
 
 If the bug is a potential security vulnerability, please report using our
 [security policy](https://unit.nginx.org/troubleshooting/#getting-support).
 
 To report a non-security bug, open an
-[issue](https://github.com/nginx/unit/issues/new) on GitHub with the label
+[issue](https://github.com/Marti2203/unit/issues/new) on GitHub with the label
 `bug`.  Be sure to include a title and clear description, as much relevant
 information as possible, and a code sample or an executable test case showing
 the expected behavior that doesn't occur.
@@ -47,7 +47,7 @@ the expected behavior that doesn't occur.
 ### Suggest an Enhancement
 
 To suggest an enhancement, open an
-[issue](https://github.com/nginx/unit/issues/new) on GitHub with the label
+[issue](https://github.com/Marti2203/unit/issues/new) on GitHub with the label
 `enhancement`.  Please do this before implementing a new feature to discuss
 the feature first.
 
@@ -87,7 +87,7 @@ request issue first to start a discussion about the feature.
   tag/trailer to reference it and have GitHub automatically close it once
   it's been merged.  E.g.:
 
-  `Closes: https://github.com/nginx/unit/issues/9999`
+  `Closes: https://github.com/Marti2203/unit/issues/9999`
 
   That should go at the end of the commit message, separated by a blank line,
   along with any other tags.
