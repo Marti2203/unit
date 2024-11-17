@@ -1,7 +1,7 @@
 #!/bin/bash -eu
 
 # Build unit
-./configure --no-regex --no-pcre2 --fuzz="$LIB_FUZZING_ENGINE"
+./configure --no-pcre2 --fuzz="$LIB_FUZZING_ENGINE"
 make fuzz -j"$(nproc)"
 
 # Copy all fuzzers.
