@@ -1,6 +1,6 @@
 #!/bin/bash
 # unitc - a curl wrapper for configuring NGINX Unit
-# https://github.com/nginx/unit/tree/master/tools
+# https://github.com/Marti2203/unit/tree/master/tools
 # NGINX, Inc. (c) 2024
 
 # Defaults

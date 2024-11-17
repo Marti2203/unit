@@ -1,8 +1,8 @@
 # NGINX Unit
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-[![CI](https://github.com/nginx/unit/actions/workflows/ci.yml/badge.svg)](https://github.com/nginx/unit/actions/workflows/ci.yml "GitHub workflow CI")
-[![GitHub Discussions](https://img.shields.io/badge/GitHub-discussions-009639)](https://github.com/nginx/unit/discussions "GitHub Discussions")
+[![CI](https://github.com/Marti2203/unit/actions/workflows/ci.yml/badge.svg)](https://github.com/Marti2203/unit/actions/workflows/ci.yml "GitHub workflow CI")
+[![GitHub Discussions](https://img.shields.io/badge/GitHub-discussions-009639)](https://github.com/Marti2203/unit/discussions "GitHub Discussions")
 
 ## Universal Web App Server
 
@@ -88,7 +88,7 @@ For details and available language packages, see the
 [`unitctl`](tools/README.md) streamlines the management of NGINX Unit processes
 through an easy-to-use command line interface. To get started with `unitctl`,
 download it from the
-[official GitHub releases](https://github.com/nginx/unit/releases)
+[official GitHub releases](https://github.com/Marti2203/unit/releases)
 or [Homebrew](#macos).
 
 ### Installation
@@ -98,7 +98,7 @@ or [Homebrew](#macos).
 > as `unitctl` is included by default.
 
 Download the appropriate `unitctl` binary for your system from the
-[NGINX Unit releases](https://github.com/nginx/unit/releases/).
+[NGINX Unit releases](https://github.com/Marti2203/unit/releases/).
 
 ``` console
 $ tar xzvf unitctl-master-x86_64-unknown-linux-gnu.tar.gz
@@ -265,9 +265,9 @@ source of knowledge about the control API.
 ## Community
 
 - The go-to place to start asking questions and share your thoughts is
- [GitHub Discussions](https://github.com/nginx/unit/discussions).
+ [GitHub Discussions](https://github.com/Marti2203/unit/discussions).
 
-- Our [GitHub issues page](https://github.com/nginx/unit/issues) offers
+- Our [GitHub issues page](https://github.com/Marti2203/unit/issues) offers
   space for a more technical discussion at your own pace.
 
 - The [project map](https://github.com/orgs/nginx/projects/1) on

@@ -200,6 +200,6 @@ jobs:
 
             For the current release of the NGINX Unit application server check the
             [Unit Installation Guide](https://unit.nginx.org/installation/) and the
-            [Unit Quickstart Guide](https://github.com/nginx/unit/).
+            [Unit Quickstart Guide](https://github.com/Marti2203/unit/).
 
           allowUpdates: true

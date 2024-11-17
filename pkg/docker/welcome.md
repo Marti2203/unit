@@ -12,7 +12,7 @@ Useful Links
  * https://unit.nginx.org/howto/docker/
    - Guidance for running Unit in a container and tips for containerized applications.
 
- * https://github.com/nginx/unit
+ * https://github.com/Marti2203/unit
    - See our GitHub repo to browse the code, contribute, or seek help from the community.
 
 Current Configuration

@@ -173,7 +173,7 @@ nxt_conn_io_sendbuf(nxt_task_t *task, nxt_sendbuf_t *sb)
     }
 
     /*
-     * XXX Temporary fix for <https://github.com/nginx/unit/issues/1125>
+     * XXX Temporary fix for <https://github.com/Marti2203/unit/issues/1125>
      */
     if (niov == 0 && sb->buf == NULL) {
         return 0;
